@@ -168,7 +168,7 @@ export default function Home() {
           alignItems={'center'}
         >   
           <Typography variant={'h2'} color={'#333'} textAlign={'center'}>
-            Inventory Items
+            Garden Items
           </Typography>
         </Box>
         <Stack width="100%" height="75vh" spacing={0} overflow={'auto'}>
